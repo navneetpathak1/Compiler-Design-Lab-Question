@@ -5,7 +5,7 @@ This repository contains LEX and YACC source codes for common **compiler design 
 ---
 
 ## 🗂 Directory Structure
-
+```bash
 .
 ├── count_lines.l # Q1: Count lines, spaces, tabs, other characters
 ├── valid_identifier.l # Q2: Print valid identifiers
@@ -23,7 +23,7 @@ This repository contains LEX and YACC source codes for common **compiler design 
 ├── expr_eval2.l/y # Q13b: Evaluate expressions (With precedence)
 └── README.md # This file
 
-
+```
 ---
 
 ## ✅ How to Run Each Program
